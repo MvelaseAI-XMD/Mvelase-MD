@@ -33,3 +33,68 @@ A WhatsApp MultiDevice BOTII Created MveLaseAI.Feel Free To Use MvelaseAI-XMD, R
 
 <p align="left">
 <a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+
+
+
+
+
+
+---
+**2. Deploy MvelaseAI-XMD ON GITHUB**
+
+  WORKFLOW CODE
+ ```name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+---
+
+
+## CREDITS 
+# `Owner`
+
+ <a href="https://github.com/MvelaseAI-XMD"><img src="https://github.com/MvelaseAI-XMD.png" width="250" height="250" alt=" Malvin King"/></a>
+
+---
+### CREATED BY:
+3. ### MvelaseAI-XMD 
+
+## MvelaseAI-XMD YT CHANNEL PLug
+
+[![Youtube](https://files.catbox.moe/h6aff2.jpg)](https://youtube.com/@mvelaseai-xmd?si=hT4DetYyEI_mE-gq) 
+ 
+ ### MvelaseAI-XMD WP CHANNEL PLug👇
+ <p align="left">
+<a href='https://whatsapp.com/channel/0029VajdbH511ulTyGysZq17' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+
+
