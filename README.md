@@ -80,8 +80,6 @@ jobs:
 ---
 
 
-## CREDITS 
-# `Owner`
 
  <a href="https://github.com/MvelaseAI-XMD"><img src="https://github.com/MvelaseAI-XMD.png" width="250" height="250" alt=" Malvin King"/></a>
 
