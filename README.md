@@ -80,9 +80,6 @@ jobs:
 
 
 
- <a href="https://github.com/MvelaseAI-XMD"><img src="https://github.com/MvelaseAI-XMD.png" width="250" height="250" alt=" MvelaseAI-XMD"/></a>
-
----
 ### CREATED BY:
 3. ### MvelaseAI-XMD 
 
