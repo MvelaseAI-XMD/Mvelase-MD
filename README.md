@@ -85,7 +85,7 @@ jobs:
 
 ## MvelaseAI-XMD YT CHANNEL PLug
 
-[![Youtube](https://files.catbox.moe/h6aff2.jpg)](https://youtube.com/@mvelaseai-xmd?si=hT4DetYyEI_mE-gq) 
+[![Youtube](https://files.catbox.moe/7a63r4.png)](https://youtube.com/@mvelaseai-xmd?si=hT4DetYyEI_mE-gq) 
  
  ### MvelaseAI-XMD WP CHANNEL PLug👇
  <p align="left">
